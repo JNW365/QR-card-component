@@ -24,8 +24,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-1XMhqClXwP]("https://www.frontendmentor.io/solutions/qr-code-component-1XMhqClXwP")
-- Live Site URL: [qr-card-component-five.vercel.app]("qr-card-component-five.vercel.app")
+## Links
+
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-1XMhqClXwP](https://www.frontendmentor.io/solutions/qr-code-component-1XMhqClXwP)
+- Live Site URL: [https://qr-card-component-five.vercel.app](https://qr-card-component-five.vercel.app)
+
 
 ## My process
 
