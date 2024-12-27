@@ -20,33 +20,33 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Desktop View]()
+![Desktop View]("images/Screenshot-2024-12-26 080817.png")
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]("https://www.frontendmentor.io/solutions/qr-code-component-1XMhqClXwP")
+- Live Site URL: [Add live site URL here]("qr-card-component-five.vercel.app")
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
+- CSS
 - Flexbox
 
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
+How to read a Figma file.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I definitely need to do more of these challenges as well as get more practices coding from an established
+design. Learning Figma would be very beneficial.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@JNW365](https://www.frontendmentor.io/profile/JNW365)
 
